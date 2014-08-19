@@ -1,0 +1,29 @@
+<map id="include/relic_fbx.h" name="include/relic_fbx.h">
+<area shape="rect" id="node2" href="$d0/d17/relic_8h.html" title="include/relic.h" alt="" coords="550,229,653,256"/>
+<area shape="rect" id="node10" href="$df/d3f/relic__pc_8h.html" title="include/relic_pc.h" alt="" coords="1059,80,1181,107"/>
+<area shape="rect" id="node22" href="$df/d0f/relic__fb2__mul_8c.html" title="src/fbx/relic_fb2_mul.c" alt="" coords="1205,80,1360,107"/>
+<area shape="rect" id="node23" href="$d7/db1/relic__fb4__mul_8c.html" title="src/fbx/relic_fb4_mul.c" alt="" coords="1384,80,1539,107"/>
+<area shape="rect" id="node24" href="$d7/d77/relic__fbx__exp_8c.html" title="src/fbx/relic_fbx_exp.c" alt="" coords="1563,80,1717,107"/>
+<area shape="rect" id="node25" href="$d6/dbf/relic__fbx__frb_8c.html" title="src/fbx/relic_fbx_frb.c" alt="" coords="1742,80,1890,107"/>
+<area shape="rect" id="node26" href="$d0/d36/relic__fbx__inv_8c.html" title="src/fbx/relic_fbx_inv.c" alt="" coords="1914,80,2065,107"/>
+<area shape="rect" id="node27" href="$d6/d7f/relic__fbx__slv_8c.html" title="src/fbx/relic_fbx_slv.c" alt="" coords="2089,80,2239,107"/>
+<area shape="rect" id="node28" href="$dc/d5b/relic__fbx__sqr_8c.html" title="src/fbx/relic_fbx_sqr.c" alt="" coords="2263,80,2414,107"/>
+<area shape="rect" id="node3" href="$da/d1b/relic__cp__bbs_8c.html" title="src/cp/relic_cp_bbs.c" alt="" coords="5,304,152,331"/>
+<area shape="rect" id="node4" href="$d7/dda/relic__cp__bls_8c.html" title="src/cp/relic_cp_bls.c" alt="" coords="177,304,319,331"/>
+<area shape="rect" id="node5" href="$d5/dce/relic__cp__ecdh_8c.html" title="src/cp/relic_cp_ecdh.c" alt="" coords="343,304,497,331"/>
+<area shape="rect" id="node6" href="$d0/d80/relic__cp__ecdsa_8c.html" title="src/cp/relic_cp_ecdsa.c" alt="" coords="521,304,681,331"/>
+<area shape="rect" id="node7" href="$da/d1e/relic__cp__ecmqv_8c.html" title="src/cp/relic_cp_ecmqv.c" alt="" coords="706,304,870,331"/>
+<area shape="rect" id="node8" href="$d4/d4c/relic__cp__ecss_8c.html" title="src/cp/relic_cp_ecss.c" alt="" coords="894,304,1047,331"/>
+<area shape="rect" id="node9" href="$db/da0/relic__cp__sokaka_8c.html" title="src/cp/relic_cp_sokaka.c" alt="" coords="1071,304,1238,331"/>
+<area shape="rect" id="node11" href="$d0/d62/relic__cp_8h.html" title="include/relic_cp.h" alt="" coords="1059,155,1181,181"/>
+<area shape="rect" id="node20" href="$df/d00/relic__pc__util_8c.html" title="src/pc/relic_pc_util.c" alt="" coords="1206,155,1349,181"/>
+<area shape="rect" id="node21" href="$db/d73/relic__conf_8c.html" title="src/relic_conf.c" alt="" coords="1373,155,1483,181"/>
+<area shape="rect" id="node12" href="$d7/d40/relic__cp__bdpe_8c.html" title="src/cp/relic_cp_bdpe.c" alt="" coords="677,229,830,256"/>
+<area shape="rect" id="node13" href="$d5/d58/relic__cp__decdsa_8c.html" title="src/cp/relic_cp_decdsa.c" alt="" coords="854,229,1021,256"/>
+<area shape="rect" id="node14" href="$d9/d0b/relic__cp__drsa_8c.html" title="src/cp/relic_cp_drsa.c" alt="" coords="1045,229,1195,256"/>
+<area shape="rect" id="node15" href="$df/dd4/relic__cp__ecies_8c.html" title="src/cp/relic_cp_ecies.c" alt="" coords="1219,229,1375,256"/>
+<area shape="rect" id="node16" href="$d4/de6/relic__cp__phpe_8c.html" title="src/cp/relic_cp_phpe.c" alt="" coords="1399,229,1553,256"/>
+<area shape="rect" id="node17" href="$d6/d1d/relic__cp__rabin_8c.html" title="src/cp/relic_cp_rabin.c" alt="" coords="1577,229,1730,256"/>
+<area shape="rect" id="node18" href="$d0/d6e/relic__cp__rsa_8c.html" title="src/cp/relic_cp_rsa.c" alt="" coords="1754,229,1897,256"/>
+<area shape="rect" id="node19" href="$db/d4a/relic__core_8c.html" title="src/relic_core.c" alt="" coords="1921,229,2031,256"/>
+</map>
